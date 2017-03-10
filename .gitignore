@@ -215,7 +215,5 @@ pip-log.txt
 #Mr Developer
 .mr.developer.cfg
 
-#############
-## Directories
-#############
+# Dependency directories
 node_modules/
