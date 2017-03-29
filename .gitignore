@@ -218,3 +218,4 @@ pip-log.txt
 # Dependency directories
 node_modules/
 uploads/
+/nbproject/

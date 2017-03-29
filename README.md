@@ -10,11 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 Install npm packages -
 ```
-npm install -g express
-
-npm install -g twilio
-
-npm install -g socket.io
+npm install
 ```
 
 ## Running the Application
